@@ -34,8 +34,6 @@ La délégation vous permet ainsi de staker vos BLD en toute sérénité, sans q
 
 Lien Explorer : https://main.explorer.agoric.net/validator/agoricvaloper1j7ywdpe77ysau0kg6ssy9w0ly9y7pavdc22f49
 
-***Ma commission est de 4% et NE CHANGERA PAS en 2022 et 2023***. 
-
 ## COMMENT DELEGUER VOS BLD ?
 
 Le plus simple à l'heure actuelle est d'utiliser le wallet Keplr: https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap. Il s'agit de l'équivalent de Metamask sur l'écosystème Cosmos.
@@ -64,6 +62,8 @@ Agoric, comme les autres projets de l'écosystème Cosmos, permet une délégati
 Cependant, notez que lorsque vous stakez, bien que vous gardez le contrôle sur les BLD, vous ne pouvez les déplacer. Il faut donc les "unstake", en tout ou partie, ce qui est faisable à tout moment. Mais il est important de noter qu'il existe seulement un délai d'unstaking (unbonding period) qui prend **3 semaines** à l'heure actuelle (cela peut évoluer selon la gouvernance sur le sujet). C'est-à-dire que lorsque vous unstakez, il y a un délai de 3 semaines avant de pouvoir déplacer à nouveau les BLD.
 
 **A l'heure actuelle (avril 2022), il n'y a pas de rewards de staking activés sur le réseau Agoric. Cela devrait être activé bientôt et on aura plus d'informations sur le % APY (retour annuel).**
+
+***Ma commission sera de 4% et NE CHANGERA PAS en 2022 et 2023***. 
 
 ## CONTACT 
 
