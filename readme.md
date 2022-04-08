@@ -84,7 +84,7 @@ Vous pouvez suivre votre délégation et "claim" les récompenses à tout moment
 
 Agoric, comme les autres projets de l'écosystème Cosmos, permet une délégation "non-custodial" (= vous gardez le contrôle total sur les BLD que vous déléguez, les validateurs ne peuvent aucunement y toucher), et très simple d'utilisation, car c'est vous qui "réclamez" (claim) vos récompenses quand vous le voulez. 
 
-Cependant, notez que lorsque vous stakez, bien que vous gardez le contrôle sur les BLD, vous ne pouvez les déplacer. Il faut donc les "unstake", en tout ou partie, ce qui est faisable à tout moment. Mais il est important de noter qu'il existe seulement un délai d'unstaking (unbonding period) qui prend **3 semaines** à l'heure actuelle (cela peut évoluer selon la gouvernance sur le sujet). C'est-à-dire que lorsque vous unstakez, il y a un délai de 3 semaines avant de pouvoir déplacer à nouveau les BLD.
+Cependant, notez que lorsque vous stakez, bien que vous gardiez le contrôle sur les BLD, vous ne pouvez les déplacer. Il faut donc les "unstake", en tout ou partie, ce qui est faisable à tout moment. Mais il est important de noter qu'il existe un délai d'unstaking (unbonding period) qui prend **3 semaines** à l'heure actuelle (cela peut évoluer selon la gouvernance sur le sujet). C'est-à-dire que lorsque vous unstakez, il y a un délai de 3 semaines avant de pouvoir déplacer à nouveau les BLD.
 
 **A l'heure actuelle (avril 2022), il n'y a pas de rewards de staking activés sur le réseau Agoric. Cela devrait être activé bientôt et on aura plus d'informations sur le % APY (retour annuel).**
 
