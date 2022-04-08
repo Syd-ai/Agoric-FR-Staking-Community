@@ -36,9 +36,9 @@ Lien Explorer : https://main.explorer.agoric.net/validator/agoricvaloper1j7ywdpe
 
 ## COMMENT DELEGUER VOS BLD ?
 
-Le plus simple à l'heure actuelle est d'utiliser le wallet Keplr: https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap. Il s'agit de l'équivalent de Metamask sur l'écosystème Cosmos (+ d'infos sur https://www.keplr.app/)
+Le plus simple à l'heure actuelle est d'utiliser le wallet Keplr que vous pouvez installer ici : https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap. Il s'agit de l'équivalent de Metamask sur l'écosystème Cosmos (+ d'infos sur https://www.keplr.app/)
 
-Vous pouvez ensuite créer un wallet ou en importer un (pour les débutants, pensez à sauvegarder dans un lieu sûr votre "seed" (liste de mots permettant le backup du wallet) et ne la partager avec personne)
+Vous pouvez ensuite créer un wallet ou en importer un (pour les débutants, pensez à sauvegarder dans un lieu sûr votre "seed" (liste de mots permettant le backup du wallet et ne la partager avec personne)
 
 ![image](https://user-images.githubusercontent.com/58671114/162477132-79572d1e-54cc-4c36-b3b8-336a3a84b69d.png)
 
