@@ -24,11 +24,12 @@ Je suis Syd, gestionnaire de nodes et validateur depuis quelques temps sur de no
 Par ailleurs, je suis actif sur de nombreux Discord cryptos FR tels que La Baleine (https://discord.gg/m93GeFer), Crypto Sisyphe (https://discord.gg/k59aVwwV) ou La Cryptosphère (https://discord.gg/xa3jpQyuJC) sur lesquels vous m'avez peut-être déjà croisé :smile: 
 
 J'ai été sélectionné par l'équipe Agoric en mars 2021 pour participer aux différentes phases de testnet du projet Agoric et ai collaboré avec l'équipe depuis maintenant plus d'un an. 
-Emballé par de nombreux aspects du projet Agoric, j'ai décidé de créer et maintenir un Validateur sur le Mainnet, avec l'idée de contribuer à la décentralisation du réseau et également fournir à la communauté française un service de staking simple et efficace, avec un point de contact français.
+Emballé par de nombreux aspects du projet Agoric, j'ai décidé de créer et maintenir un Validateur sur le Mainnet, avec l'idée de contribuer à la décentralisation du réseau et également fournir à la communauté française un service de staking simple et efficace, doté d'un point de contact français.
 
-A la suite de cela, j'ai été sélectionné par l'équipe Agoric pour recevoir une délégation qui m'engage à un certain nombre de critères de qualité, de suivi et d'implication dans la gouvernance du projet (lien vers le pledge : https://github.com/Syd-ai/validator-profiles/tree/main/Syd%20Validator)
+A la suite de cela, j'ai été sélectionné par l'équipe Agoric pour recevoir une délégation de leur part, ce qui m'engage à un certain nombre de critères de qualité, de suivi et d'implication dans la gouvernance du projet (lien vers le pledge : https://github.com/Syd-ai/validator-profiles/tree/main/Syd%20Validator)
 
-**Mon but est donc aujourd'hui de proposer un validateur Agoric pour la communauté FR**. Il s'agit d'un pool accessible et personnalisé avec pour vous un contact français actif. Je ne souhaite pas m'étendre à l'international étant donné que mon objectif est principalement de garder un contact privilégié avec les personnes me faisant confiance pour déléguer leur BLD. Vous pourrez ainsi me contacter sur Discord ou Telegram à tout moment, en communiquant en Français. Inversement, je vous contacterai pour transmettre toute information importante ayant trait au Staking sur Agoric. 
+**Mon but est donc aujourd'hui de proposer un validateur Agoric pour la communauté FR**. Il s'agit d'un pool accessible et personnalisé avec pour vous un contact français actif. Je ne souhaite pas m'étendre à l'international étant donné que mon objectif est principalement de garder un contact privilégié avec les personnes me faisant confiance pour déléguer leur BLD. Vous pourrez ainsi me contacter sur Discord ou Telegram à tout moment, en communiquant en Français. Inversement, si vous le souhaitez, j'informerai sur le Telegram information importante ayant trait au Staking sur Agoric. 
+
 La délégation vous permet ainsi de staker vos BLD en toute sérénité, sans que vous n'ayiez rien à ne vous soucier.
 
 Lien Explorer : https://main.explorer.agoric.net/validator/agoricvaloper1j7ywdpe77ysau0kg6ssy9w0ly9y7pavdc22f49
@@ -56,15 +57,13 @@ Une fois cela fait, félicitations, vos BLD sont stakés et commenceront à gén
 
 Vous pouvez suivre votre délégation et "claim" les récompenses à tout moment sur le haut du dashboard Keplr.
 
-## VOS RECOMPENSES 
+## CONDITIONS DE STAKING ET RECOMPENSES 
 
 Agoric, comme les autres projets de l'écosystème Cosmos, permet une délégation "non-custodial" (= vous gardez le contrôle total sur les BLD que vous déléguez, les validateurs ne peuvent aucunement y toucher), et très simple d'utilisation, car c'est vous qui "réclamez" (claim) vos récompenses quand vous le voulez. 
 
-Vous pouvez récupérer vos BLD, ou une seule partie, à tout moment.
+Cependant, notez que lorsque vous stakez, bien que vous gardez le contrôle sur les BLD, vous ne pouvez les déplacer. Il faut donc les "unstake", en tout ou partie, ce qui est faisable à tout moment. Mais il est important de noter qu'il existe seulement un délai d'unstaking (unbonding period) qui prend **3 semaines** à l'heure actuelle (cela peut évoluer selon la gouvernance sur le sujet). C'est-à-dire que lorsque vous unstakez, il y a un délai de 3 semaines avant de pouvoir déplacer à nouveau les BLD.
 
-Il existe seulement un délai d'unstaking (unbonding period) qui prend 3 semaines à l'heure actuelle (cela peut évoluer selon la gouvernance sur le sujet). C'est-à-dire que lorsque vous unstakez, il y a un délai avant de pouvoir déplacer les BLD.
-
-A l'heure actuelle (avril 2022), il n'y a pas de rewards de staking activés sur le réseau Agoric. Cela devrait être activé bientôt et on aura plus d'informations sur le % APY (retour annuel).
+**A l'heure actuelle (avril 2022), il n'y a pas de rewards de staking activés sur le réseau Agoric. Cela devrait être activé bientôt et on aura plus d'informations sur le % APY (retour annuel).**
 
 ## CONTACT 
 
