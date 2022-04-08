@@ -1,13 +1,10 @@
 # GUIDE - Agoric FR Staking Community - Syd
 
-![Syd Mina Staking Community](https://user-images.githubusercontent.com/58671114/137028353-add1a43a-b1bb-4d6b-ba39-8b43237cd5c4.png)
-
-
 DISCORD : Syd#9907 - Official Discord Agoric (https://discord.gg/rdSfug9n) - Tags : testnet-participant
 
 TELEGRAM : @Sydai
 
-AGORIC : https://agoric.com/+ 
+AGORIC : https://agoric.com/
 
 POUR EN SAVOIR + SUR AGORIC : https://blog.coinlist.co/a-deep-dive-into-agoric-javascript-smart-contracts/
 
