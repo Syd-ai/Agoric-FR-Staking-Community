@@ -35,16 +35,6 @@ Lien Explorer : https://main.explorer.agoric.net/validator/agoricvaloper1j7ywdpe
 
 ***Ma commission est de 4% et NE CHANGERA PAS en 2022 et 2023***. 
 
-## VOS RECOMPENSES 
-
-Agoric, comme les autres projets de l'écosystème Cosmos, permet une délégation "non-custodial" (= vous gardez le contrôle total sur les BLD que vous déléguez, les validateurs ne peuvent aucunement y toucher), et très simple d'utilisation, car c'est vous qui "réclamez" (claim) vos récompenses quand vous le voulez. 
-
-Vous pouvez récupérer vos BLD, ou une seule partie, à tout moment.
-
-Il existe seulement un délai d'unstaking (unbonding period) qui prend 3 semaines à l'heure actuelle (cela peut évoluer selon la gouvernance sur le sujet). C'est-à-dire que lorsque vous unstakez, il y a un délai avant de pouvoir déplacer les BLD.
-
-A l'heure actuelle (avril 2022), il n'y a pas de rewards de staking activés sur le réseau Agoric. Cela devrait être activé bientôt et on aura plus d'informations sur le % APY (retour annuel)
-
 ## COMMENT DELEGUER VOS BLD ?
 
 Le plus simple à l'heure actuelle est d'utiliser le wallet Keplr: https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap. Il s'agit de l'équivalent de Metamask sur l'écosystème Cosmos.
@@ -65,6 +55,16 @@ Autre conseil, notez que vous pouvez claim régulièrement les BLD pour les reme
 Une fois cela fait, félicitations, vos BLD sont stakés et commenceront à générer des rewards immédiatement.
 
 Vous pouvez suivre votre délégation et "claim" les récompenses à tout moment sur le haut du dashboard Keplr.
+
+## VOS RECOMPENSES 
+
+Agoric, comme les autres projets de l'écosystème Cosmos, permet une délégation "non-custodial" (= vous gardez le contrôle total sur les BLD que vous déléguez, les validateurs ne peuvent aucunement y toucher), et très simple d'utilisation, car c'est vous qui "réclamez" (claim) vos récompenses quand vous le voulez. 
+
+Vous pouvez récupérer vos BLD, ou une seule partie, à tout moment.
+
+Il existe seulement un délai d'unstaking (unbonding period) qui prend 3 semaines à l'heure actuelle (cela peut évoluer selon la gouvernance sur le sujet). C'est-à-dire que lorsque vous unstakez, il y a un délai avant de pouvoir déplacer les BLD.
+
+A l'heure actuelle (avril 2022), il n'y a pas de rewards de staking activés sur le réseau Agoric. Cela devrait être activé bientôt et on aura plus d'informations sur le % APY (retour annuel).
 
 ## CONTACT 
 
