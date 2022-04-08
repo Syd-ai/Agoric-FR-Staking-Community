@@ -20,7 +20,7 @@ GROUPE FR TELEGRAM : (en cours de création)
 
 Bonjour,
 
-Je suis Syd, gestionnaire de nodes et validateur depuis quelques temps sur de nombreux projets crypto (Mina Protocol, Stafi, Nyzo, Idena, Bismuth, Certik, Flux, HDX (ex-Stakenet), Buzzer etc.). Je gère notamment l'un des plus importants validateurs sur Mina Protocol (https://minacrypto.com/tools/syd-mina-fr-staking-community/) regroupant de nombreux membres Français de la communauté. 
+Je suis Syd, gestionnaire de nodes et validateur depuis quelques temps sur de nombreux projets crypto (Mina Protocol, Stargaze, Stafi, Nyzo, Idena, Bismuth, Certik, Flux, HDX (ex-Stakenet), Buzzer etc.). Je gère notamment l'un des plus importants validateurs sur Mina Protocol (https://minacrypto.com/tools/syd-mina-fr-staking-community/) regroupant de nombreux membres Français de la communauté. 
 Par ailleurs, je suis actif sur de nombreux Discord cryptos FR tels que La Baleine (https://discord.gg/m93GeFer), Crypto Sisyphe (https://discord.gg/k59aVwwV) ou La Cryptosphère (https://discord.gg/xa3jpQyuJC) sur lesquels vous m'avez peut-être déjà croisé :smile: 
 
 J'ai été sélectionné par l'équipe Agoric en mars 2021 pour participer aux différentes phases de testnet du projet Agoric et ai collaboré avec l'équipe depuis maintenant plus d'un an. 
