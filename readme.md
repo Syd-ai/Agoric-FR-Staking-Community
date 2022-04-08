@@ -57,13 +57,16 @@ Et connectez-vous avec votre wallet Keplr.
 ![image](https://user-images.githubusercontent.com/58671114/162477615-216f1072-f766-4273-85d0-b1a8364f1b6e.png)
 
 Ensuite vous pouvez sélectionner le validateur de votre choix en cliquant sur "Manage"
+
 ![image](https://user-images.githubusercontent.com/58671114/162477696-9b8dd774-d755-4cfa-ac9c-5d212f92a971.png)
 (ou vous pouvez utiliser le lien direct pour mon validateur : https://wallet.keplr.app/#/agoric/stake?modal=detail&validator=agoricvaloper1j7ywdpe77ysau0kg6ssy9w0ly9y7pavdc22f49).
 
 Ensuite, cliquez sur "Delegate"
+
 ![image](https://user-images.githubusercontent.com/58671114/162477897-d940af27-611d-427c-8a63-789bef882ba7.png)
 
 Enfin, inscrivez le montant à stake souhaité, validez et approuver la transaction que Keplr affichera.
+
 ![image](https://user-images.githubusercontent.com/58671114/162477987-929d555c-b1ca-425e-ba6f-128f1f0426a7.png)
 ![image](https://user-images.githubusercontent.com/58671114/162478184-3709fa41-03a1-4e08-8bac-6b37b0076ff3.png)
 
