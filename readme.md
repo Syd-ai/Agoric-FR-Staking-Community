@@ -28,7 +28,7 @@ Emballé par de nombreux aspects du projet Agoric, j'ai décidé de créer et ma
 
 A la suite de cela, j'ai été sélectionné par l'équipe Agoric pour recevoir une délégation de leur part, ce qui m'engage à un certain nombre de critères de qualité, de suivi et d'implication dans la gouvernance du projet (lien vers le pledge : https://github.com/Syd-ai/validator-profiles/tree/main/Syd%20Validator)
 
-**Mon but est donc aujourd'hui de proposer un validateur Agoric pour la communauté FR**. Il s'agit d'un pool accessible et personnalisé avec pour vous un contact français actif. Je ne souhaite pas m'étendre à l'international étant donné que mon objectif est principalement de garder un contact privilégié avec les personnes me faisant confiance pour déléguer leur BLD. Vous pourrez ainsi me contacter sur Discord ou Telegram à tout moment, en communiquant en Français. Inversement, si vous le souhaitez, j'informerai sur le Telegram information importante ayant trait au Staking sur Agoric. 
+**Mon but est donc aujourd'hui de proposer un validateur Agoric pour la communauté FR**. Il s'agit d'un pool accessible et personnalisé avec pour vous un contact français actif. Je ne souhaite pas m'étendre à l'international étant donné que mon objectif est principalement de garder un contact privilégié avec les personnes me faisant confiance pour déléguer leur BLD. Vous pourrez ainsi me contacter sur Discord ou Telegram à tout moment, en communiquant en Français. Inversement, j'informerai sur le Telegram toute information importante ayant trait au Staking sur Agoric. 
 
 La délégation vous permet ainsi de staker vos BLD en toute sérénité, sans que vous n'ayiez rien à ne vous soucier.
 
@@ -46,19 +46,18 @@ Ouvrez le wallet et sélectionnez le réseau Agoric
 
 ![image](https://user-images.githubusercontent.com/58671114/162477257-a9d6206a-b89f-4a9b-ab8c-a5e1a8f21058.png)
 
-Déposez vos BLD sur votre wallet grâce à l'addresse indiquée
+Déposez vos BLD sur votre wallet grâce à l'addresse indiquée (cliquez dessus pour copier automatiquement l'addresse)
 
 ![image](https://user-images.githubusercontent.com/58671114/162477378-5dc57e7e-f00e-4387-a9a8-12942970d8cd.png)
-(cliquez dessus pour copier automatiquement l'addresse)
 
-Rendez-vous ensuite sur le dashboard Keplr/Agoric : https://wallet.keplr.app/#/agoric/stake
-Et connectez-vous avec votre wallet Keplr.
+Rendez-vous ensuite sur le dashboard Keplr/Agoric : https://wallet.keplr.app/#/agoric/stake et connectez-vous avec votre wallet Keplr.
 
 ![image](https://user-images.githubusercontent.com/58671114/162477615-216f1072-f766-4273-85d0-b1a8364f1b6e.png)
 
-Ensuite vous pouvez sélectionner le validateur de votre choix en cliquant sur "Manage"
+Vous pouvez alors sélectionner le validateur de votre choix en cliquant sur "Manage"
 
 ![image](https://user-images.githubusercontent.com/58671114/162477696-9b8dd774-d755-4cfa-ac9c-5d212f92a971.png)
+
 (ou vous pouvez utiliser le lien direct pour mon validateur : https://wallet.keplr.app/#/agoric/stake?modal=detail&validator=agoricvaloper1j7ywdpe77ysau0kg6ssy9w0ly9y7pavdc22f49).
 
 Ensuite, cliquez sur "Delegate"
@@ -68,13 +67,14 @@ Ensuite, cliquez sur "Delegate"
 Enfin, inscrivez le montant à stake souhaité, validez et approuver la transaction que Keplr affichera.
 
 ![image](https://user-images.githubusercontent.com/58671114/162477987-929d555c-b1ca-425e-ba6f-128f1f0426a7.png)
+
 ![image](https://user-images.githubusercontent.com/58671114/162478184-3709fa41-03a1-4e08-8bac-6b37b0076ff3.png)
 
-Petit conseil : gardez toujours 1 ou 2 BLD dans votre wallet au lieu de staker l'intégralité de vos BLD, afin de pouvoir payer d'éventuels futurs frais de transaction.
+Petit conseil : **gardez toujours 1 ou 2 BLD de disponible dans votre wallet** au lieu de staker l'intégralité de vos BLD, afin de pouvoir payer d'éventuels futurs frais de transaction.
 
-Autre conseil, notez que vous pouvez claim régulièrement les BLD pour les remettre en staking, afin de bénéficier d'un effet de compouding et améliorer vos rewards.
+Autre conseil, **notez que vous pouvez claim régulièrement les BLD pour les remettre en staking**, afin de bénéficier d'un effet de compouding et améliorer vos rewards.
 
-Une fois cela fait, félicitations, vos BLD sont stakés et commenceront à générer des rewards immédiatement.
+Une fois cela fait, félicitations, vos BLD sont stakés et commenceront à générer des rewards immédiatement, dès lors que l'inflation sera activée sur Agoric.
 
 Vous pouvez suivre votre délégation et "claim" les récompenses à tout moment sur le haut du dashboard Keplr (ou plus tard directement dans le wallet Keplr)
 
