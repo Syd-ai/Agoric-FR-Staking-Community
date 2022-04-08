@@ -73,7 +73,9 @@ Autre conseil, notez que vous pouvez claim régulièrement les BLD pour les reme
 
 Une fois cela fait, félicitations, vos BLD sont stakés et commenceront à générer des rewards immédiatement.
 
-Vous pouvez suivre votre délégation et "claim" les récompenses à tout moment sur le haut du dashboard Keplr.
+Vous pouvez suivre votre délégation et "claim" les récompenses à tout moment sur le haut du dashboard Keplr (ou plus tard directement dans le wallet Keplr)
+
+![image](https://user-images.githubusercontent.com/58671114/162478388-1cdab804-6e8b-4794-94db-549b0d615603.png)
 
 ## CONDITIONS DE STAKING ET RECOMPENSES 
 
