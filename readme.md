@@ -36,19 +36,39 @@ Lien Explorer : https://main.explorer.agoric.net/validator/agoricvaloper1j7ywdpe
 
 ## COMMENT DELEGUER VOS BLD ?
 
-Le plus simple à l'heure actuelle est d'utiliser le wallet Keplr: https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap. Il s'agit de l'équivalent de Metamask sur l'écosystème Cosmos.
+Le plus simple à l'heure actuelle est d'utiliser le wallet Keplr: https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap. Il s'agit de l'équivalent de Metamask sur l'écosystème Cosmos (+ d'infos sur https://www.keplr.app/)
 
 Vous pouvez ensuite créer un wallet ou en importer un (pour les débutants, pensez à sauvegarder dans un lieu sûr votre "seed" (liste de mots permettant le backup du wallet) et ne la partager avec personne)
 
-Sélectionnez le réseau Agoric 
+![image](https://user-images.githubusercontent.com/58671114/162477132-79572d1e-54cc-4c36-b3b8-336a3a84b69d.png)
+
+Ouvrez le wallet et sélectionnez le réseau Agoric 
+
+![image](https://user-images.githubusercontent.com/58671114/162477257-a9d6206a-b89f-4a9b-ab8c-a5e1a8f21058.png)
 
 Déposez vos BLD sur votre wallet grâce à l'addresse indiquée
+
+![image](https://user-images.githubusercontent.com/58671114/162477378-5dc57e7e-f00e-4387-a9a8-12942970d8cd.png)
+(cliquez dessus pour copier automatiquement l'addresse)
 
 Rendez-vous ensuite sur le dashboard Keplr/Agoric : https://wallet.keplr.app/#/agoric/stake
 Et connectez-vous avec votre wallet Keplr.
 
-Ensuite vous pouvez sélectionner le validateur de votre choix (lien direct pour mon validateur : https://wallet.keplr.app/#/agoric/stake?modal=detail&validator=agoricvaloper1j7ywdpe77ysau0kg6ssy9w0ly9y7pavdc22f49), cliquez sur "Delegate", inscrivez le montant à stake souhaité, puis validez et approuver la transaction que Keplr affichera.
+![image](https://user-images.githubusercontent.com/58671114/162477615-216f1072-f766-4273-85d0-b1a8364f1b6e.png)
+
+Ensuite vous pouvez sélectionner le validateur de votre choix en cliquant sur "Manage"
+![image](https://user-images.githubusercontent.com/58671114/162477696-9b8dd774-d755-4cfa-ac9c-5d212f92a971.png)
+(ou vous pouvez utiliser le lien direct pour mon validateur : https://wallet.keplr.app/#/agoric/stake?modal=detail&validator=agoricvaloper1j7ywdpe77ysau0kg6ssy9w0ly9y7pavdc22f49).
+
+Ensuite, cliquez sur "Delegate"
+![image](https://user-images.githubusercontent.com/58671114/162477897-d940af27-611d-427c-8a63-789bef882ba7.png)
+
+Enfin, inscrivez le montant à stake souhaité, validez et approuver la transaction que Keplr affichera.
+![image](https://user-images.githubusercontent.com/58671114/162477987-929d555c-b1ca-425e-ba6f-128f1f0426a7.png)
+![image](https://user-images.githubusercontent.com/58671114/162478184-3709fa41-03a1-4e08-8bac-6b37b0076ff3.png)
+
 Petit conseil : gardez toujours 1 ou 2 BLD dans votre wallet au lieu de staker l'intégralité de vos BLD, afin de pouvoir payer d'éventuels futurs frais de transaction.
+
 Autre conseil, notez que vous pouvez claim régulièrement les BLD pour les remettre en staking, afin de bénéficier d'un effet de compouding et améliorer vos rewards.
 
 Une fois cela fait, félicitations, vos BLD sont stakés et commenceront à générer des rewards immédiatement.
