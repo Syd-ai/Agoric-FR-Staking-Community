@@ -14,7 +14,7 @@ AGORIC TOKENOMICS : https://stake.agoric.com/#28568332a84c4e91bb629edf8573433c
 
 TOUT SAVOIR SUR LE STAKING (Source Officielle - en anglais) : https://stake.agoric.com/
 
-GROUPE FR TELEGRAM : (en cours de création)
+GROUPE FR TELEGRAM : https://t.me/agoricfrance
 
 ## PRESENTATION & OBJECTIF DU VALIDATEUR
 
