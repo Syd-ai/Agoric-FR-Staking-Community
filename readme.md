@@ -96,7 +96,7 @@ DISCORD : Syd#9907 - Official Discord Agoric (https://discord.gg/rdSfug9n) - Tag
 
 TELEGRAM : @Sydai
 
-EMAIL : security@sydstaking.com
+EMAIL : security [@] sydstaking.com
 
 N'hésitez pas si vous avez des questions sur la Délégation, le Staking, le Validateur, ou même sur Agoric en général.
 
