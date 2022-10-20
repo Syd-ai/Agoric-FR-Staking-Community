@@ -70,13 +70,11 @@ Enfin, inscrivez le montant à stake souhaité, validez et approuver la transact
 
 ![image](https://user-images.githubusercontent.com/58671114/162478184-3709fa41-03a1-4e08-8bac-6b37b0076ff3.png)
 
-Petit conseil : **gardez toujours 1 ou 2 BLD de disponible dans votre wallet** au lieu de staker l'intégralité de vos BLD, afin de pouvoir payer d'éventuels futurs frais de transaction.
+Petit conseil, **notez que vous pouvez claim régulièrement les BLD pour les remettre en staking**, afin de bénéficier d'un effet de compouding et améliorer vos rewards.
 
-Autre conseil, **notez que vous pouvez claim régulièrement les BLD pour les remettre en staking**, afin de bénéficier d'un effet de compouding et améliorer vos rewards.
+Une fois cela fait, félicitations, vos BLD sont stakés et commenceront à générer des rewards immédiatement.
 
-Une fois cela fait, félicitations, vos BLD sont stakés et commenceront à générer des rewards immédiatement, dès lors que l'inflation sera activée sur Agoric.
-
-Vous pouvez suivre votre délégation et "claim" les récompenses à tout moment sur le haut du dashboard Keplr (ou plus tard directement dans le wallet Keplr)
+Vous pouvez suivre votre délégation et "claim" les récompenses à tout moment sur le haut du dashboard Keplr (ou directement dans le wallet Keplr)
 
 ![image](https://user-images.githubusercontent.com/58671114/162478388-1cdab804-6e8b-4794-94db-549b0d615603.png)
 
@@ -86,7 +84,7 @@ Agoric, comme les autres projets de l'écosystème Cosmos, permet une délégati
 
 Cependant, notez que lorsque vous stakez, bien que vous gardiez le contrôle sur les BLD, vous ne pouvez les déplacer. Il faut donc les "unstake", en tout ou partie, ce qui est faisable à tout moment. Mais il est important de noter qu'il existe un délai d'unstaking (unbonding period) qui prend **3 semaines** à l'heure actuelle (cela peut évoluer selon la gouvernance sur le sujet). C'est-à-dire que lorsque vous unstakez, il y a un délai de 3 semaines (21 jours) avant de pouvoir déplacer à nouveau les BLD.
 
-**L'APR dépend du nombre de BLD mis en stake et évolue donc en permanence, mais est vérifiable sur Keplr. Il tourne actuellement (août 2022) autour des 15% **
+**L'APR dépend du nombre de BLD mis en stake et évolue donc en permanence, mais est vérifiable sur Keplr. Il tourne actuellement (octobre 2022) autour des 13% **
 
 ***Ma commission sera de 4% et NE CHANGERA PAS en 2022 et 2023*** (sauf décision de gouvernance imposant un minimum supérieur)
 
