@@ -2,6 +2,18 @@
 
 ![Agoric FR Staking Community](https://github.com/Syd-ai/Agoric-FR-Staking-Community/blob/main/Agoric%20FR%20staking%20community.png)
 
+
+
+
+## LE VALIDATEUR EST FERME. MERCI A CEUX QUI M'ONT FAIT CONFIANCE ET A LA PROCHAINE ! 
+
+
+
+
+
+
+
+
 DISCORD : Syd#9907 - Official Discord Agoric (https://discord.gg/rdSfug9n) - Tags : testnet-participant
 
 TELEGRAM : @Sydai
