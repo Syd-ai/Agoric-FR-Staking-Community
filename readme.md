@@ -1,4 +1,4 @@
-# GUIDE - Agoric FR Staking Community - Syd
+# Agoric FR Staking Community - Syd : SUNSETTING
 
 ![Agoric FR Staking Community](https://github.com/Syd-ai/Agoric-FR-Staking-Community/blob/main/Agoric%20FR%20staking%20community.png)
 
